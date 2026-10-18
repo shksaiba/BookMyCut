@@ -1,0 +1,6 @@
+@BookMyCut.Api_HostAddress = http://localhost:5020
+
+GET {{BookMyCut.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
