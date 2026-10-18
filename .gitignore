@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+node_modules/
+dist/
+.angular/
+.venv/
+__pycache__/
+.env
+appsettings.Development.json
